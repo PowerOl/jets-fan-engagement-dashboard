@@ -1,0 +1,9 @@
+# Ignore raw data
+data/raw/*.db
+data/raw/*.csv
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
